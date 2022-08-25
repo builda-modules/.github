@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Builda Modules
 
 This is the repository which houses all of the offical [Builda](https://builda.app) modules.
